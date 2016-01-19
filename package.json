@@ -1,0 +1,30 @@
+{
+  "name": "hapi-webpack-dev-middleware",
+  "version": "1.0.0",
+  "description": "hapi plugin to use webpack-dev-middleware",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/prashaantt/hapi-webpack-dev-middleware"
+  },
+  "author": "Prashant Tiwari <prashaantt@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/prashaantt/hapi-webpack-dev-middleware/issues"
+  },
+  "homepage": "https://github.com/prashaantt/hapi-webpack-dev-middleware",
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "devDependencies": {
+    "eslint-config-hapi": "^8.0.1",
+    "eslint-plugin-hapi": "^4.0.0",
+    "hapi": "^12.1.0",
+    "code": "^2.1.0",
+    "lab": "^8.0.2"
+  },
+  "dependencies": {
+    "webpack": "^1.12.11",
+    "webpack-dev-middleware": "^1.4.0"
+  }
+}
