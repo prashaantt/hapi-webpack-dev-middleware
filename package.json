@@ -1,6 +1,6 @@
 {
   "name": "hapi-webpack-dev-middleware",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "hapi plugin to use webpack-dev-middleware",
   "main": "index.js",
   "repository": {
