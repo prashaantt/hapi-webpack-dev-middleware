@@ -6,6 +6,10 @@ hapi plugin to use webpack-dev-middleware, possibly in conjunction with [hapi-we
 [![devDependency Status](https://david-dm.org/prashaantt/hapi-webpack-dev-middleware/dev-status.svg?theme=shields.io)](https://david-dm.org/prashaantt/hapi-webpack-dev-middleware#info=devDependencies)
 
 
+## Breaking change in 2.0
+
+Upgraded to use Webpack 2.
+
 ## Installation
 
 ```bash

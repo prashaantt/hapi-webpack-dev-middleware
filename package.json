@@ -1,6 +1,6 @@
 {
   "name": "hapi-webpack-dev-middleware",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "hapi plugin to use webpack-dev-middleware",
   "main": "index.js",
   "repository": {
@@ -20,12 +20,12 @@
     "eslint": "2.9.0",
     "eslint-config-hapi": "9.1.0",
     "eslint-plugin-hapi": "4.0.0",
-    "hapi": "13.4.0",
-    "code": "2.3.0",
-    "lab": "10.5.1"
+    "hapi": "15.2.0",
+    "code": "4.0.0",
+    "lab": "11.2.0"
   },
   "dependencies": {
-    "webpack": "1.13.0",
-    "webpack-dev-middleware": "1.6.1"
+    "webpack": "2.1.0-beta.25",
+    "webpack-dev-middleware": "1.8.4"
   }
 }
